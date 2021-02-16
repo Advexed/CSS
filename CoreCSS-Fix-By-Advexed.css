@@ -3663,7 +3663,7 @@ div[aria-label="USER_SETTINGS"] .info-1VyQPT:last-child > div:last-child::after 
 	border: 1px solid var(--deprecated-text-input-border);
 }
 
-.contextMenuContainer-2HlOMK {
+.da-contextMenuContainer {
 	position: absolute;
 	padding-top: 13;
 }
