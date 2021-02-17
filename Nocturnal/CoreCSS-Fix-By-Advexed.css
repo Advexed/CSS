@@ -1,4 +1,3 @@
-@import url(https://css.advexed.co.uk/Nocturnal/Jank-Bypass.css);
 [role="img"][aria-label]:before {
 	content: "";
 	position: absolute;
@@ -3659,4 +3658,8 @@ div[aria-label="USER_SETTINGS"] .info-1VyQPT:last-child > div:last-child::after 
 
 .inputInner-2akrSS {
 	border: 1px solid var(--deprecated-text-input-border);
+}
+
+.controlButton-2MhVEL foreignObject {
+	padding-top: 6px;
 }
