@@ -1,3 +1,4 @@
+@import url(https://css.advexed.co.uk/Nocturnal/Jank-Fix.css);
 [role="img"][aria-label]:before {
 	content: "";
 	position: absolute;
