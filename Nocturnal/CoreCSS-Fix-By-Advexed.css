@@ -2720,11 +2720,10 @@ svg[name=Nitro] g path {
 	border-radius: 5px;
 }
 
-.controlButton-2MhVEL foreignObject {
-	mask: none;
-	padding-top: 6px;
-}
-
+/**.controlButton-2MhVEL foreignObject {
+ *	padding-top: 6px;
+ *}
+*/
 .contextMenuNub-3yOOYo {
 	bottom: 4px;
 	right: 4px;
