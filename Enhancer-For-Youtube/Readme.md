@@ -1,16 +1,16 @@
 To use this install any CSS injector extention and configure it with the following
 
-``@import url("https://css.advexed.co.uk/Enhancer-For-Youtube/Youtube Deep Dark Light Pink.css");
+`@import url("https://css.advexed.co.uk/Enhancer-For-Youtube/Youtube Deep Dark Light Pink.css");`
 
-:root{
---main-color:#ffc0d1;
---main-background:#070707;
---second-background:#101010;
---hover-background:#ffc0d1;
---main-text:#909090;
---dimmer-text:#909090;
---popup-text:#202020;
-}``
+`:root{`
+`--main-color:#ffc0d1;`
+`--main-background:#070707;`
+`--second-background:#101010;`
+`--hover-background:#ffc0d1;`
+`--main-text:#909090;`
+`--dimmer-text:#909090;`
+`--popup-text:#202020;`
+`}`
 
 
 The `--main-color` value changes the red with whatever you set it to.
