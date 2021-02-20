@@ -505,7 +505,7 @@ background-color:transparent !important
 }
 #tooltip.paper-tooltip{
 background-color:var(--hover-background) !important;
-color:var(--main-color) !important
+color:var(--popup-text) !important
 }
 button.ytd-button-renderer[is="paper-icon-button-light"][disabled]{
 color:rgb(255,255,255) !important
