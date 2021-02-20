@@ -1,6 +1,6 @@
 To use this install any CSS injector extention and configure it with the following
-
-```@import url("https://css.advexed.co.uk/Enhancer-For-Youtube/Youtube Deep Dark Light Pink.css");
+```
+@import url("https://css.advexed.co.uk/Enhancer-For-Youtube/Youtube Deep Dark Light Pink.css");
 
 :root{
 --main-color:#ffc0d1;
