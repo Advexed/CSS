@@ -2110,13 +2110,16 @@ border-color:var(--main-color) !important;
 color:var(--main-text) !important;
 opacity:.9
 }
-
+#text.yt-notification-action-renderer{
+--yt-spec-static-overlay-text-primary:var(--popup-text);
+}
 :root{
 --main-color:#ffc0d1;
---main-background:#111111;
---second-background:#181818;
---hover-background:#232323;
---main-text:#eff0f1;
---dimmer-text:#cccccc;
+--main-background:#070707;
+--second-background:#101010;
+--hover-background:#ffc0d1;
+--main-text:#909090;
+--dimmer-text:#909090;
+--popup-text:#202020;
 --shadow:0 1px .5px rgba(0, 0, 0, .3)
 }
