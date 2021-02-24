@@ -1,4 +1,4 @@
-To use this install any CSS injector extention/plugin or use the custom CSS option on the Youtube Encahncer and configure it with the following CSS.
+To use this install any CSS injector extention/plugin or use the custom CSS option on the Youtube Enhancer plugin/extension and configure it with the following CSS.
 ```
 @import url("https://css.advexed.co.uk/Enhancer-For-Youtube/Youtube Deep Dark Light Pink.css");
 
