@@ -3666,5 +3666,5 @@ div[aria-label="USER_SETTINGS"] .info-1VyQPT:last-child > div:last-child::after 
 }
 
 .headerDefault-1wrJcN {
-	background-color: var(--background-dark);
+	background-color: var(--background-dark)!important;
 }
