@@ -3664,3 +3664,7 @@ div[aria-label="USER_SETTINGS"] .info-1VyQPT:last-child > div:last-child::after 
 	mask: none;
 	padding-top: 6px;
 }
+
+.headerDefault-1wrJcN {
+	background-color: var(--background-dark);
+}
