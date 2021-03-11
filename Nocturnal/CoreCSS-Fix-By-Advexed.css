@@ -3668,3 +3668,8 @@ div[aria-label="USER_SETTINGS"] .info-1VyQPT:last-child > div:last-child::after 
 .headerDefault-1wrJcN {
 	background-color: var(--background-dark)!important;
 }
+
+.container-_phMUq {
+	background-color: rgba(0,0,0,.0)!important;
+	color: #fff;
+}
