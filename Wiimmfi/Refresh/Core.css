@@ -124,3 +124,7 @@ div.text, div.text-wide, div.text-100, div.text-help, div.text-success, div.text
 th.tc {
     padding: 7px 7px;
 }
+
+.table00 .tr3, .table01 .tr3, .table10 .tr3, .table11 .tr3, span.tr3 {
+    background-color: #ff7300;
+}
