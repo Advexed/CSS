@@ -128,3 +128,7 @@ th.tc {
 .table00 .tr3, .table01 .tr3, .table10 .tr3, .table11 .tr3, span.tr3 {
     background-color: #ff7300;
 }
+
+b {
+    color: #00ff00;
+}
