@@ -146,3 +146,12 @@ b {
 .table10 {
     margin-left: -20px;
 }
+
+h1.narrow {
+    padding-top: 230px;
+    margin-top: -230px;
+}
+
+.table11 {
+    margin-top: -285px;
+}
