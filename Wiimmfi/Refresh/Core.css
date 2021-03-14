@@ -132,3 +132,17 @@ th.tc {
 b {
     color: #ffffff;
 }
+
+.table00, .table01, .table10, .table11 {
+    display: inline-block;
+    scale: 0.95;
+    margin-left: -15px;
+}
+
+.table10 .tc {
+    padding: 0.46em 0.3em;
+}
+
+.table10 {
+    margin-left: -20px;
+}
