@@ -442,17 +442,6 @@
   .platform-web #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(26)::before{background:url(https://codedotspectra.github.io/themes/icons/hype.png) center}
   .platform-web #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(29)::before{background:url(https://codedotspectra.github.io/themes/icons/logout.png) center}
 
-:root {
-	--backgroundDark: rgb(24, 28, 37);
-	--backgroundDarker: rgb(20, 23, 31);
-	--primary: #008ae6;
-	--primaryGradient1: #008ae6;
-	--primaryGradient2: #00e68a;
-	--DangerColor: #dc3545;
-	--WarningColor: #ffc107;
-	--SuccesColor: #28a745
-}
-
 #app-mount {animation: themeStart .5s linear 0s 1 normal}
 @keyframes themeStart {
 	from {filter: blur(100px)}
@@ -3701,4 +3690,17 @@ featureCard-1RR4Tl {
 .cardWarning-2yPNAa {
     background-color: #f04747;
     border-color: #f04747;
+}
+
+:root {
+  --backgroundDark: #151524;
+  --backgroundDarker: rgb(20, 23, 31);
+  --primary: #ffc0d1;
+  --primaryGradient1: var(--primary);
+  --primaryGradient2: #ff0080;
+  --DangerColor: #dc3545;
+  --WarningColor: #ffc107;
+  --SuccesColor: #28a745;
+  --backgroundCode: rgba(0,0,0,.35);
+  --backgroundName: rgba(0,0,0,.2);
 }
