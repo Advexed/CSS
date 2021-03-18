@@ -3,12 +3,12 @@ body {
 }
 
 p, small, div.logo {
-    color: #ccc;
+    color: #fff;
     display: none;
 }
 
 h1.narrow {
-    color: #ccc;
+    color: #fff;
     margin-bottom: 30px;
     margin-top: 0px;
 }
@@ -23,7 +23,7 @@ span.tr3 {
 }
 
 .suspend {
-    color: #ccc;
+    color: #fff;
 }
 
 .table00, .table01, .table10, .table11 {
@@ -34,7 +34,7 @@ span.tr3 {
     background-color: #101010;
     margin-bottom: 20px;
     
-    color: #ccc;
+    color: #fff;
 }
 
 .table11 tr, .table00 .tr0, .table01 .tr0, .table10 .tr0, .table11 .tr0, span.tr0 {
@@ -47,7 +47,7 @@ table.tr1-1p0 tr:hover, table.tr1-1p1 tr:hover, table.tr1-2p0 tr:hover, table.tr
 
 table.tr1-1p0 tr:nth-child(2n), table.tr1-1p1 tr:nth-child(2n+1), table.tr1-2p0 tr:nth-child(4n), table.tr1-2p0 tr:nth-child(4n+1), table.tr1-2p1 tr:nth-child(4n+1), table.tr1-2p1 tr:nth-child(4n+2), table.tr1-2p2 tr:nth-child(4n+2), table.tr1-2p2 tr:nth-child(4n+3), table.tr1-2p3 tr:nth-child(4n+3), table.tr1-2p3 tr:nth-child(4n+4), table.tr1-3p0 tr:nth-child(6n), table.tr1-3p0 tr:nth-child(6n+1), table.tr1-3p0 tr:nth-child(6n+2), table.tr1-3p1 tr:nth-child(6n+1), table.tr1-3p1 tr:nth-child(6n+2), table.tr1-3p1 tr:nth-child(6n+3), table.tr1-3p2 tr:nth-child(6n+2), table.tr1-3p2 tr:nth-child(6n+3), table.tr1-3p2 tr:nth-child(6n+4), table.tr1-3p3 tr:nth-child(6n+3), table.tr1-3p3 tr:nth-child(6n+4), table.tr1-3p3 tr:nth-child(6n+5), table.tr1-3p4 tr:nth-child(6n+4), table.tr1-3p4 tr:nth-child(6n+5), table.tr1-3p4 tr:nth-child(6n+6), table.tr1-3p5 tr:nth-child(6n+5), table.tr1-3p5 tr:nth-child(6n+6), table.tr1-3p5 tr:nth-child(6n+7), .table00 .tr1, .table01 .tr1, .table10 .tr1, .table11 .tr1, span.tr1 {
     background-color: #707070;
-    
+    color: #fff;
 }
 
 table.conntab td.c-frame, table.conntab td.c-self, table.conntab td.c-client, table.conntab td.c-nsuc, table.conntab td.c-nack, table.conntab td.c-ncon, table.conntab td.c-loc, table.conntab td.c-con, table.conntab td.c-stat, table.conntab td.c-warn {
@@ -60,7 +60,7 @@ table.conntab td.c-frame, table.conntab td.c-self, table.conntab td.c-client, ta
 
 .table00 .tc, .table01 .tc, .table10 .tc, .table11 .tc {
     background-color: #202020;
-    color: #ccc;
+    color: #fff;
 }
 
 .table00 .tc a, .table01 .tc a, .table10 .tc a, .table11 .tc a {
@@ -69,7 +69,7 @@ table.conntab td.c-frame, table.conntab td.c-self, table.conntab td.c-client, ta
 
 .table00 th, .table01 th, .table10 th, .table11 th {
     background-color: #303030;
-    color: #ccc;
+    color: #fff;
 }
 
 div.nb-frame, span.nb-frame {
@@ -118,7 +118,7 @@ div.nb-menu-info, span.nb-menu-login, a.nb-menu-link {
 
 div.text, div.text-wide, div.text-100, div.text-help, div.text-success, div.text-warn, div.text-error, div.text-help-100, div.text-success-100, div.text-warn-100, div.text-error-100, h2, h1, h3, h4, dt.changelog {
     background-color: #101010;
-    color: #ccc;
+    color: #fff;
 }
 
 th.tc {
@@ -127,6 +127,7 @@ th.tc {
 
 .table00 .tr3, .table01 .tr3, .table10 .tr3, .table11 .tr3, span.tr3 {
     background-color: #ff7300;
+    color: #fff;
 }
 
 b {
@@ -150,4 +151,32 @@ b {
 h1.narrow {
     padding-top: 230px;
     margin-top: -230px;
+}
+
+.table00, .table01, .table10, .table11 {
+    display: inline-block;
+    scale: 0.95;
+    margin-left: -15px;
+}
+
+.table10 .tc {
+    padding: 0.46em 0.3em;
+}
+
+.table10 {
+    margin-left: -8px;
+}
+
+h1.narrow {
+    padding-top: 230px;
+    margin-top: -230px;
+}
+
+.table11 {
+    border-collapse: collapse;
+    margin-top: -75px;
+}
+
+b {
+    font-style: italic;
 }
