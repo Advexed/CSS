@@ -1,9 +1,9 @@
 body {
     background-color: #101010;
+    color: #fff;
 }
 
-p, small, div.logo {
-    color: #fff;
+small, div.logo {
     display: none;
 }
 
@@ -28,13 +28,10 @@ span.tr3 {
 
 .table00, .table01, .table10, .table11 {
     border-style: solid;
-    border-width: 2px;
+    border-width: 3px;
     border-color: #fff;
     border-spacing: 3px;
     background-color: #101010;
-    margin-bottom: 20px;
-    
-    color: #fff;
 }
 
 .table11 tr, .table00 .tr0, .table01 .tr0, .table10 .tr0, .table11 .tr0, span.tr0 {
@@ -47,7 +44,6 @@ table.tr1-1p0 tr:hover, table.tr1-1p1 tr:hover, table.tr1-2p0 tr:hover, table.tr
 
 table.tr1-1p0 tr:nth-child(2n), table.tr1-1p1 tr:nth-child(2n+1), table.tr1-2p0 tr:nth-child(4n), table.tr1-2p0 tr:nth-child(4n+1), table.tr1-2p1 tr:nth-child(4n+1), table.tr1-2p1 tr:nth-child(4n+2), table.tr1-2p2 tr:nth-child(4n+2), table.tr1-2p2 tr:nth-child(4n+3), table.tr1-2p3 tr:nth-child(4n+3), table.tr1-2p3 tr:nth-child(4n+4), table.tr1-3p0 tr:nth-child(6n), table.tr1-3p0 tr:nth-child(6n+1), table.tr1-3p0 tr:nth-child(6n+2), table.tr1-3p1 tr:nth-child(6n+1), table.tr1-3p1 tr:nth-child(6n+2), table.tr1-3p1 tr:nth-child(6n+3), table.tr1-3p2 tr:nth-child(6n+2), table.tr1-3p2 tr:nth-child(6n+3), table.tr1-3p2 tr:nth-child(6n+4), table.tr1-3p3 tr:nth-child(6n+3), table.tr1-3p3 tr:nth-child(6n+4), table.tr1-3p3 tr:nth-child(6n+5), table.tr1-3p4 tr:nth-child(6n+4), table.tr1-3p4 tr:nth-child(6n+5), table.tr1-3p4 tr:nth-child(6n+6), table.tr1-3p5 tr:nth-child(6n+5), table.tr1-3p5 tr:nth-child(6n+6), table.tr1-3p5 tr:nth-child(6n+7), .table00 .tr1, .table01 .tr1, .table10 .tr1, .table11 .tr1, span.tr1 {
     background-color: #707070;
-    color: #fff;
 }
 
 table.conntab td.c-frame, table.conntab td.c-self, table.conntab td.c-client, table.conntab td.c-nsuc, table.conntab td.c-nack, table.conntab td.c-ncon, table.conntab td.c-loc, table.conntab td.c-con, table.conntab td.c-stat, table.conntab td.c-warn {
@@ -69,7 +65,6 @@ table.conntab td.c-frame, table.conntab td.c-self, table.conntab td.c-client, ta
 
 .table00 th, .table01 th, .table10 th, .table11 th {
     background-color: #303030;
-    color: #fff;
 }
 
 div.nb-frame, span.nb-frame {
@@ -103,10 +98,6 @@ div.nb-submenu a {
     color: #ffc0d1;
 }
 
-div.nb-submenu a.active {
-    color: #fff;
-}
-
 div.nb-frame, span.nb-frame {
     background-color: #101010;
 }
@@ -118,69 +109,17 @@ div.nb-menu-info, span.nb-menu-login, a.nb-menu-link {
 
 div.text, div.text-wide, div.text-100, div.text-help, div.text-success, div.text-warn, div.text-error, div.text-help-100, div.text-success-100, div.text-warn-100, div.text-error-100, h2, h1, h3, h4, dt.changelog {
     background-color: #101010;
-    color: #fff;
-}
-
-th.tc {
-    padding: 7px 7px;
 }
 
 .table00 .tr3, .table01 .tr3, .table10 .tr3, .table11 .tr3, span.tr3 {
     background-color: #ff7300;
-    color: #fff;
-}
-
-b {
-    color: #ffffff;
-}
-
-.table00, .table01, .table10, .table11 {
-    display: inline-block;
-    scale: 0.95;
-    margin-left: -15px;
-}
-
-.table10 .tc {
-    padding: 0.46em 0.3em;
-}
-
-.table10 {
-    margin-left: -20px;
-}
-
-h1.narrow {
-    padding-top: 230px;
-    margin-top: -230px;
-}
-
-.table00, .table01, .table10, .table11 {
-    display: inline-block;
-    scale: 0.95;
-    margin-left: -15px;
-}
-
-.table10 .tc {
-    padding: 0.46em 0.3em;
-}
-
-.table10 {
-    margin-left: -8px;
-}
-
-h1.narrow {
-    padding-top: 230px;
-    margin-top: -230px;
-}
-
-.table11 {
-    border-collapse: collapse;
-    margin-top: -75px;
 }
 
 b {
     font-style: italic;
 }
 
-.table10 {
-    border-collapse: collapse;
+div.nb-submenu a.active {
+    color: #fff;
+    text-decoration: underline;
 }
