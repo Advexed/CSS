@@ -180,3 +180,7 @@ h1.narrow {
 b {
     font-style: italic;
 }
+
+.table10 {
+    border-collapse: collapse;
+}
