@@ -3692,6 +3692,10 @@ featureCard-1RR4Tl {
     border-color: #f04747;
 }
 
+.titleContainer-2CXtJo, .stickyHeader-hH_ZLl {
+    background-color: var(--backgroundDark);
+}
+
 :root {
   --backgroundDark: #151524;
   --backgroundDarker: rgb(20, 23, 31);
