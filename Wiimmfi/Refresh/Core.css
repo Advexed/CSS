@@ -123,3 +123,8 @@ div.nb-submenu a.active {
     color: #fff;
     text-decoration: underline;
 }
+
+div.nb-submenu {
+    background-color: #101010;
+    border: 1px solid #101010;
+}
