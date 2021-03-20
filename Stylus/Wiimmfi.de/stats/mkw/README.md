@@ -2,7 +2,7 @@
 
 - Click the `Stylus` icon
 - Then click `Manage`
-- Then click `***Write new style***`
+- Then click `Write new style`
 - Give it a name
 - Click the `Import` Button
 - Paste in the following
