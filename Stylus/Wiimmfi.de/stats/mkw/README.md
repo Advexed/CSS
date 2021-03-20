@@ -1,4 +1,4 @@
-#To use this theme
+# To use this theme
 
 - Click the ***Stylus*** icon
 - Then click ***Manage***
