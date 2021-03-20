@@ -5,7 +5,7 @@
 - Then click `Write new style`
 - Give it a name
 - Click the `Import` Button
-- Paste in the following
+- Copy and paste in the following into the window that popped up
 
 ```
 @-moz-document url-prefix("https://wiimmfi.de/stats/mkw") {
