@@ -1,10 +1,10 @@
 # To use this theme
 
-- Click the ***Stylus*** icon
-- Then click ***Manage***
-- Then click ***Write new style***
+- Click the `***Stylus***` icon
+- Then click `***Manage***`
+- Then click `***Write new style***`
 - Give it a name
-- Click the ***Import*** Button
+- Click the `***Import***` Button
 - Paste in the following
 
 ```
@@ -13,6 +13,6 @@
 }
 ```
 
-- Click ***Overwrite style***
+- Click `***Overwrite style***`
 
 Thats it you should have the theme now
