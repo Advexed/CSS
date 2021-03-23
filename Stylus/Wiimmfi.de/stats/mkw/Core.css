@@ -139,3 +139,7 @@ div.nb-submenu {
     color: #fff;
     border: solid #fff 5px;
 }
+
+p:not(th > p) {
+    display: none;
+}
