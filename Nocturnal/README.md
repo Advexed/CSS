@@ -1,9 +1,9 @@
-Note: **THIS THEMEIS NOT MINE** I have copied it to make changes when and if they need to happen.
-This theme is updated more often because Discords menues get updated often and as result so do their classes
-making the theme not apply to those elements usually I catch onto these missed emelemts and fix them as soon
-as I encounter them
+# DISCLAMER
 
-# To use this theme
+Note: **THIS THEMEIS NOT MINE** I have copied it to make changes when and if they need to happen.
+This theme is updated often because Discords menues get updated and as result so do their classes
+making the theme not apply to those elements. Usually I catch onto these missed emelemts and fix them as soon
+as I encounter them, But if you find one that I missed then ping me on dicord by joining my [Discord Server](https://discord.gg/gBY5A9yZQX)
 
 ## Method 1
 
@@ -12,7 +12,7 @@ as I encounter them
 - Move the file you downloaded into the folder that opened up
 - Goto discord settings
 - Scroll down to themes
-- Enable ``Nocturnal v3.0 Neo Fix by Neopolittan#4654``
+- Enable ``Nocturnal v3.0 Neo Fix by Neopolitan#4654``
 
 Enjoy the theme
 
