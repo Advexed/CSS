@@ -443,14 +443,14 @@
   .platform-web #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(29)::before{background:url(https://codedotspectra.github.io/themes/icons/logout.png) center}
 
 :root {
-	--backgroundDark: rgb(24, 28, 37);
-	--backgroundDarker: rgb(20, 23, 31);
-	--primary: #008ae6;
-	--primaryGradient1: #008ae6;
-	--primaryGradient2: #00e68a;
-	--DangerColor: #dc3545;
-	--WarningColor: #ffc107;
-	--SuccesColor: #28a745
+  --backgroundDark: #151525;
+  --backgroundDarker: #101020;
+  --primary: #ffc0d1;
+  --primaryGradient1: var(--primary);
+  --primaryGradient2: #ff0080;
+  --DangerColor: #dc3545;
+  --WarningColor: #ffc107;
+  --SuccesColor: #28a745;
 }
 
 #app-mount {animation: themeStart .5s linear 0s 1 normal}
