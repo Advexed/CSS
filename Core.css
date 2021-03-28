@@ -3730,3 +3730,7 @@ img.da-voiceAvatar, .speaking-B2MXPi {
 .formFieldWrapper-malor5, .item-26Dhrx[aria-checked=true], .enableContainer-6E-puu, .welcomeChannel-1rFrIO, .cardContent-qqqwo8, .developerPortalCtaWrapper-2XNafh, .checklistHeader-1KWcEY, .header-2Y0-A-, .enableContainer-2DIT9Q, .standardSidebarView-3F1I7i, .standardSidebarView-3F1I7i, .settingsFormItem-103g1I{
   background-color: var(--backgroundDarker);
 }
+
+.roleRow-30TwGe:hover:not(.roleRowDisableHover-1HiqqT) .editButton-1V012_, .roleRow-30TwGe:hover:not(.roleRowDisableHover-1HiqqT) .circleButton-3RB01i {
+	background-color: var(--backgroundDark);
+}
