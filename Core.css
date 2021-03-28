@@ -3734,3 +3734,7 @@ img.da-voiceAvatar, .speaking-B2MXPi {
 .roleRow-30TwGe:hover:not(.roleRowDisableHover-1HiqqT) .editButton-1V012_, .roleRow-30TwGe:hover:not(.roleRowDisableHover-1HiqqT) .circleButton-3RB01i {
 	background-color: var(--backgroundDark);
 }
+
+.css-12hk9yc-control {
+	background-color: var(--backgroundDarker);
+}
