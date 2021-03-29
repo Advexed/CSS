@@ -3738,3 +3738,15 @@ img.da-voiceAvatar, .speaking-B2MXPi {
 .css-12hk9yc-control {
 	background-color: var(--backgroundDarker);
 }
+
+.selected-mKYnfr.disabled-3I9jyo {
+    color: var(--primary)!important;
+}
+
+.disabled-3I9jyo, .disabled-3I9jyo {
+    color: rgba(255, 255, 255, 0.15) !important;
+}
+
+.divider-3573oO, .option-n0icdO, .user-settings-games .not-detected {
+    background-color: rgba(255, 255, 255,.15)!important;
+}
