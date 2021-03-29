@@ -1,9 +1,7 @@
 # DISCLAMER
 
-Note: **THIS THEME IS NOT MINE** I have copied it to make changes when and if they need to happen.
-This theme is updated often because Discords menues get updated and as result so do their classes
-making the theme not apply to those elements. Usually I catch onto these missed emelemts and fix them as soon
-as I encounter them, But if you find one that I missed then ping me on dicord by joining my [Discord Server](https://discord.gg/axEsMhZwyZ)
+Note: **THIS THEME IS NOT MINE** I have copied it to make changes when and if they need to happen. This theme is updated often because Discords menues get updated and as result so do their classes making the theme not apply to those elements.
+NOTE 2: [Join my discord server](https://discord.gg/axEsMhZwyZ) for help with anything that isnt working or any fixes that have been missed.
 
 ## Method 1
 
