@@ -2218,7 +2218,7 @@ svg[name=Nitro] g path {
 }
 
 .avatar-1BDn8e {
-	margin-top: -6px;
+	margin-top: -1px;
 	top: auto;
 	left: 10px;
 	width: 50px;
@@ -3751,4 +3751,8 @@ img.da-voiceAvatar, .speaking-B2MXPi {
 
 .divider-3573oO, .option-n0icdO, .user-settings-games .not-detected {
     background-color: rgba(255, 255, 255,.15)!important;
+}
+
+.markup-2BOw-j {
+	min-height: 30px;
 }
