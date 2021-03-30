@@ -442,17 +442,6 @@
   .platform-web #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(26)::before{background:url(https://codedotspectra.github.io/themes/icons/hype.png) center}
   .platform-web #user-settings .side-8zPYf6 .item-PXvHYJ:nth-child(29)::before{background:url(https://codedotspectra.github.io/themes/icons/logout.png) center}
 
-:root {
-  --backgroundDark: #141420;
-  --backgroundDarker: #101020;
-  --primary: #ffc0d1;
-  --primaryGradient1: var(--primary);
-  --primaryGradient2: #ff0080;
-  --DangerColor: #dc3545;
-  --WarningColor: #ffc107;
-  --SuccesColor: #28a745;
-}
-
 #app-mount {animation: themeStart .5s linear 0s 1 normal}
 @keyframes themeStart {
 	from {filter: blur(100px)}
@@ -3742,21 +3731,20 @@ img.da-voiceAvatar, .speaking-B2MXPi {
 }
 
 .contents-2mQqc9 {
-	padding-top: 5px;
-	padding-bottom: 5px;
+	padding-top: 0;
+	padding-bottom: 1px;
 }
 
 .wrapper-2a6GCs {
-	margin-top: -6px;
-	margin-bottom: -6px;
+	/*margin-bottom: -5px;*/
 }
 
 .avatar-1BDn8e {
-	margin-top: -5px;
+	margin-top: -2px;
 	top: auto;
 	left: 10px;
-	width: 50px;
-	height: 50px;
+	width: 45px;
+	height: 45px;
 	border-radius: 50px;
 	border-color: #00000000;
 	border-style: solid;
@@ -3765,4 +3753,28 @@ img.da-voiceAvatar, .speaking-B2MXPi {
 
 .mentioned-xhSam7:before, .replying-1x3H0T:before {
     width: 4px;
+}
+
+.mentioned-xhSam7, .replying-1x3H0T { 
+	background-color: rgba(var(--mention-background), 0.3);
+	border-radius: 0px;
+}
+
+.mentioned-xhSam7:hover, .replying-1x3H0T:hover { 
+	background-color: var(--mention-backgroundLighter) !important;
+}
+
+:root {
+  --backgroundDark: #151525;
+  --backgroundDarker: #101020;
+  --primary: #ffc0d0;
+  --primaryGradient1: var(--primary);
+  --primaryGradient2: #ff0080;
+  --DangerColor: #dc3545;
+  --WarningColor: #ffc107;
+  --SuccesColor: #28a745;
+  --backgroundCode: rgba(0,0,0,.35);
+  --backgroundName: rgba(0,0,0,.2);
+  --mention-background: 255, 192, 209;
+  --mention-backgroundLighter: rgba(var(--mention-background), 0.4);
 }
