@@ -24,10 +24,10 @@ Enjoy the theme
 ```
 @import url(https://css.advexed.co.uk/Nocturnal/Core.css);
 
-:root {
-  --backgroundDark: #151524;
-  --backgroundDarker: rgb(20, 23, 31);
-  --primary: #ffc0d1;
+:root{
+  --backgroundDark: #141420;
+  --backgroundDarker: #101020;
+  --primary: #ffc0d0;
   --primaryGradient1: var(--primary);
   --primaryGradient2: #ff0080;
   --DangerColor: #dc3545;
@@ -35,7 +35,9 @@ Enjoy the theme
   --SuccesColor: #28a745;
   --backgroundCode: rgba(0,0,0,.35);
   --backgroundName: rgba(0,0,0,.2);
-}
+  --mention-background: 255, 192, 209;
+  --mention-backgroundLighter: rgba(var(--mention-background), 0.4);
+}  
 ```
 
 - Paste the text you just copied into the ``Custom CSS Editor``
