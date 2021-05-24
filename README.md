@@ -22,7 +22,7 @@ Enjoy the theme
 - Copy the text below
 
 ```
-@import url(https://css.advexed.co.uk/Nocturnal/Core.css);
+@import url(https://raw.githubusercontent.com/Neop0litan/Nocturnal/main/Core.css);
 
 :root{
   --backgroundDark: #141420;
